@@ -1,0 +1,2 @@
+epoch,source_acc,target_acc_no_im,target_acc_oracle,target_acc_baseline,target_acc_MLLS,target_acc_RLLS,baseline_AE,MLLS_AE,RLLS_AE,multarget_acc_oracle,multarget_acc_baseline,multarget_acc_MLLS,multarget_acc_RLLS
+40,72.1764705882353,60.0,62.857142857142854,54.285714285714285,60.0,51.42857142857142,0.41393243939216645,0.5525465823177781,0.5846588554753949,62.857142857142854,54.285714285714285,60.0,51.42857142857142

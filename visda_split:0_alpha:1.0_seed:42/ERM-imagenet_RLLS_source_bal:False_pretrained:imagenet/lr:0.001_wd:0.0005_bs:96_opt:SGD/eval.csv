@@ -1,0 +1,2 @@
+epoch,source_acc,target_acc_no_im,target_acc_oracle,target_acc_baseline,target_acc_MLLS,target_acc_RLLS,baseline_AE,MLLS_AE,RLLS_AE,cal_target_acc_no_im,cal_target_acc_oracle,cal_target_acc_baseline,cal_target_acc_MLLS,cal_target_acc_RLLS,cal_baseline_AE,cal_MLLS_AE,cal_RLLS_AE,cal_source_acc
+9,99.97949727313733,100.0,100.0,100.0,100.0,100.0,0.0017024851833510341,0.0006823481963927885,0.0004576784339366934,100.0,100.0,100.0,100.0,100.0,0.00042538911841806006,9.784017495807242e-05,0.00019756014178477603,99.97949727313733
